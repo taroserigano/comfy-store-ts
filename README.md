@@ -27,7 +27,7 @@ This Store App is a modern, scalable e-commerce web application built with React
 ---
 
 ## LANDING PAGE 
-![Alt text](https://github.com/taroserigano/comfy-store-ts/blob/main/img/1.jpg)
+![Alt text](https://github.com/taroserigano/comfy-store-ts/blob/main/img/4.jpg)
 
 ## PRODUCTS PAGE 
 
