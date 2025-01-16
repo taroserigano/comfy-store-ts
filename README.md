@@ -26,7 +26,7 @@ Comfy Store is a modern, scalable e-commerce web application built with React an
 
 ---
 
-## 🏗️ Setup & Installation
+
 
 1. Clone the repository:
    ```sh
