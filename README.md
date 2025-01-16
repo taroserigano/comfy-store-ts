@@ -1,7 +1,7 @@
-# 🛍️ Comfy Store - React + TypeScript E-Commerce App
+# 🛍️ E-Commerce Store - React + TypeScript E-Commerce App
 
 ## 🚀 Overview
-Comfy Store is a modern, scalable e-commerce web application built with React and TypeScript. The app supports user authentication, cart management, product browsing, and checkout functionality with a clean and responsive UI powered by Tailwind CSS and Shadcn UI.
+This Store App is a modern, scalable e-commerce web application built with React and TypeScript. The app supports user authentication, cart management, product browsing, and checkout functionality with a clean and responsive UI powered by Tailwind CSS and Shadcn UI.
 
 ---
 
