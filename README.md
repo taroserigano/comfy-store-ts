@@ -26,9 +26,12 @@ This Store App is a modern, scalable e-commerce web application built with React
 
 ---
 
+## LANDING PAGE 
+![Alt text](https://github.com/taroserigano/comfy-store-ts/blob/main/img/1.jpg)
 
+## PRODUCTS PAGE 
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/comfy-store.git
-   cd comfy-store
+![Alt text](https://github.com/taroserigano/comfy-store-ts/blob/main/img/2.jpg)
+
+## CART PAGE
+![Alt text](https://github.com/taroserigano/comfy-store-ts/blob/main/img/3.jpg)
